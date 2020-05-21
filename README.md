@@ -1,0 +1,14 @@
+[![HitCount](http://hits.dwyl.com/EzMinh/ColorMessage.svg)](http://hits.dwyl.com/EzMinh/ColorMessage)
+![GitHub All Releases](https://img.shields.io/github/downloads/EzMinh/ColorMessage/total)
+[![GitHub license](https://img.shields.io/github/license/EzMinh/ColorMessage)](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE)
+# ColorMessage 1.0.0
+**Add color for message**
+# How to use
+- Add color.message to have color message
+# Permission
+|   Permission  |      Description      | Default |
+|:-------------:|:---------------------:|:-------:|
+| color.message | Add color for message |    OP   |
+# License and Copyright
+[LGPL-3.0](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE) <br/>
+© 2020 EzMinh
