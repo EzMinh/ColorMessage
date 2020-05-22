@@ -5,11 +5,11 @@
 # ColorMessage 1.0.1
 **Add color for message**
 # How to use
-- Add color.message to have color message
+- Add colormessage to have color message
 # Permission
 |   Permission  |      Description      | Default |
 |:-------------:|:---------------------:|:-------:|
-| color.message | Add color for message |    OP   |
+| colormessage  | Add color for message |    OP   |
 # License and Copyright
 [LGPL-3.0](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE) <br/>
 © 2020 EzMinh
