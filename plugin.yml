@@ -1,6 +1,6 @@
 name: ColorMessage
 author: EzMinh
-version: 1.0.0
+version: 1.0.1
 api: [3.9.0]
 main: EzMinh\ColorMessage\Main
 
