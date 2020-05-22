@@ -2,7 +2,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/EzMinh/ColorMessage/total)
 [![GitHub license](https://img.shields.io/github/license/EzMinh/ColorMessage)](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE)
 [![](https://poggit.pmmp.io/shield.state/ColorMessage)](https://poggit.pmmp.io/p/ColorMessage)
-# ColorMessage 1.0.0
+# ColorMessage 1.0.1
 **Add color for message**
 # How to use
 - Add color.message to have color message
