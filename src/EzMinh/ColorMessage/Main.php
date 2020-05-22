@@ -20,7 +20,7 @@ class Main extends PluginBase implements Listener {
     }
     public function onChat(PlayerChatEvent $e) {
         $player = $e->getPlayer();
-        if($player->hasPermission("color.message")) {
+        if($player->hasPermission("colormessage")) {
             $msg = $e->getMessage();
             switch($this->getConfig()->get("color")) {
                 case "red":

@@ -1,10 +1,10 @@
 name: ColorMessage
 author: EzMinh
 version: 1.0.0
-api: [3.0.0, 4.0.0]
+api: [3.9.0]
 main: EzMinh\ColorMessage\Main
 
 permissions:
-  color.message:
+  colormessage:
     description: Add color for message
     default: op
