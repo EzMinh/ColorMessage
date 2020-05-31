@@ -10,6 +10,10 @@
 |   Permission  |      Description      | Default |
 |:-------------:|:---------------------:|:-------:|
 | colormessage  | Add color for message |    OP   |
+# Config
+```
+color: <red|gray|black|yellow|green|blue>
+```
 # License and Copyright
 [LGPL-3.0](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE) <br/>
 © 2020 EzMinh
