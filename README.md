@@ -14,6 +14,10 @@
 ```
 color: <red|gray|black|yellow|green|blue>
 ```
+# Installation
+Step 1. Make sure you installed Sheep plugin <br/>
+Step 2. Run ```install ColorMessage``` in console <br/>
+Step 3. Enjoy this plugin
 # License and Copyright
 [LGPL-3.0](https://github.com/EzMinh/ColorMessage/blob/master/LICENSE) <br/>
 © 2020 EzMinh
